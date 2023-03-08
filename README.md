@@ -1,5 +1,6 @@
 # Absenteeism_DataScience_project
 ABSENTEEISM (DATA SCIENCE BOOTCAMP) Feb 2023
+
 ● Preprocessed raw data using Python to clean and transform data
 
 ● Applied logistic regression to predict employee absenteeism with 75% accuracy on both train and test sets
